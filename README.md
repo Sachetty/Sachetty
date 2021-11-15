@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Sachetty">
     <img  align="left" height="180em"src="https://github-readme-stats.vercel.app/api?username=Sachetty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <img align="center" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/685272117750530170/892544602148601906/zorogit.gif?width=676&height=676">
+     <img align="center" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/423648851413565447/909846801203462154/zorogit.gif?width=676&height=676">
 </div>
   
 <div style="display: inline_block"><br>
